@@ -1,20 +1,9 @@
-<p align="center">
-<table align="center">
-<tr>
-<td align="left">
+<p>
 The Informatics project is an open-source environment that provides a lasting, extensible, platform-agnostic and distributed 
 infrastructure enabling high-throughput informatics, efficient data management, robust analysis protocol design and 
 powerful study-wide provenance, including data, processing and computational services. Neuroinformatics is one specific 
 focus for this project; however this infrastructure is directly applicable to diverse biomedical computing, translational 
-science and general informatics studies.
-</td>
-<td align="center">
-<a href="http://wiki.loni.usc.edu/twiki/pub/LONI/Pipeline/Pipeline_Overview_AnimatedGIF_Movie.gif"> 
-<img src="http://wiki.loni.usc.edu/twiki/pub/LONI/Pipeline/Pipeline_Overview_AnimatedGIF_Movie.gif" 
-alt="http://wiki.loni.usc.edu/twiki/pub/LONI/Pipeline/Pipeline_Overview_AnimatedGIF_Movie.gif" width="50%, height="50%" /></a>
-</td>
-</tr>
-</table>
+science and general informatics studies.<br>
 </p>
 
 You can view, download, open or run any of the currently available validated informatics and genomics computing 
